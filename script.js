@@ -1,1 +1,1 @@
-var zero = 0
+var zero = 1;
