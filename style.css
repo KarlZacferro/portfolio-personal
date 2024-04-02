@@ -180,7 +180,6 @@ span{
     transform: scale(1.05);
     box-shadow: 0 0 50px var(--main-color); 
 }
-
 .btn-group{
     display: flex;
     align-items: center;
