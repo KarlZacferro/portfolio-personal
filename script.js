@@ -1,3 +1,3 @@
 var numero = 6;
 
-var Outronumero = 6;
+var umero = 6;
