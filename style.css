@@ -86,7 +86,6 @@ section{
     justify-content: center;
     gap: 15rem;
 }
-
 .home_content{
     display: flex;
     flex-direction: column;
