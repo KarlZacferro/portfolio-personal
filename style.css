@@ -93,7 +93,6 @@ section{
     text-align: right;
     justify-content: center;
 }
-
 span{
     color: var(--main-color);
 }
@@ -101,7 +100,6 @@ span{
 .logo span{
     color: var(--main-color);
 }
-
 .home-content h3{
     margin-bottom: 2rem;
     margin-top: 1rem;
