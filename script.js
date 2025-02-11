@@ -1,4 +1,1 @@
-var numero = 6;
-
-
-var color 
+var numero = 6
