@@ -8,13 +8,13 @@
     scroll-behavior: smooth;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
 :root {
     --bg-color: #080808;
     --second-bg-color: #1b0000;
     --text-color: white;
     --main-color: #f60b0b;
 }
-
 html{
     font-size: 60%;
     overflow-x: hidden;
