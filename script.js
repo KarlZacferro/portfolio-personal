@@ -1,4 +1,4 @@
 const { version } = require("react")
 
 
-var numero = 6
+const url = 'http://localhost:5000/movies';
