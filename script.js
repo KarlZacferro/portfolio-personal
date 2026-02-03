@@ -2,4 +2,4 @@ const { version } = require("react")
 
 
 
-var naem
+var name
