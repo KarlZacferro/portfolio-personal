@@ -5,7 +5,6 @@ var app = {
     bindEvents: function() {
         document.addEventListener('deviceready', this.onDeviceReady, false);
     },
-    
     onDeviceReady: function() {
         app.receivedEvent('deviceready');
     },
