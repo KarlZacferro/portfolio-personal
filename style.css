@@ -12,8 +12,9 @@
 }
 
 :root {
+
     --bg-color: #080808;
-    --second-bg-color: #1b0000;
+    --second-bg-color: #615f5f;
     --text-color: white;
     --main-color: #f60b0b;
 }
@@ -26,7 +27,6 @@ body{
     background: var(--bg-color);
     color: var(--text-color);
 }
-
 
 .header{
     
